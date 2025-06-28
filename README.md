@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align="center">
+  👋 สวัสดีครับ, ผมคือ Thanchanat Homphao
+  <br>
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="60"/>
+</h1>
 
-<!--
-**ThanchanatX/ThanchanatX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=700&size=24&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=💻+Fullstack+Web+Developer;🎨+UI%2FUX+Designer+%7C+Tech+Student;⚡+PHP+MySQL+JS+React+Linux+Lover" alt="ThanchanatAPI" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="dev working" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🌍  **Based in:** Sa Kaeo, Thailand  
+- 🎓  **Student:** Computer Science  
+- 💻  **Skills:** PHP, MySQL, HTML, CSS, JS, React  
+- 🎨  **Focus:** UI/UX Design & System Dev  
+- 🚀  **Portfolio:** [thanchanat.online](http://thanchanat.online)  
+- 📫  **Email:** [thanchanat.online](mailto:thanchanat.online)  
+- 🧠  **Currently Learning:** Next.js, Python, SQL Optimization
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,react,nodejs,python,bootstrap,vscode,figma,photoshop,ae,wordpress,linux" />
+</p>
+
+---
+
+## 🎯 Connect With Me
+
+<p align="center">
+  <a href="https://discord.com/users/1329732614591877172">
+    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/thitipong.homepao">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="http://www.instagram.com/thanchanatx/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@thanchanatx">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://github.com/SKYCraftTeam">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SKYCraftTeam&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKYCraftTeam&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🛰 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SKYCraftTeam&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🧩 Fun Fact
+
+> 🧠 **"นักพัฒนาไม่ใช่คนที่รู้ทุกอย่าง — แต่รู้ว่า GPT ยังอยู่!"**   
+> 🎮 ThanchanatX
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff0fc&height=120&section=footer"/>
+</p>
