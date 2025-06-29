@@ -49,7 +49,7 @@
   <a href="https://www.youtube.com/@thanchanatx">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://github.com/SKYCraftTeam">
+  <a href="https://github.com/ThanchanatX">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -59,8 +59,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SKYCraftTeam&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKYCraftTeam&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThanchanatX&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanchanatX&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ## 🛰 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SKYCraftTeam&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThanchanatX&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
