@@ -5,11 +5,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=700&size=24&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=💻+Fullstack+Web+Developer;🎨+UI%2FUX+Designer+%7C+Tech+Student;⚡+PHP+MySQL+JS+React+Linux+Lover" alt="ThanchanatAPI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=700&size=24&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=💻+Fullstack+Web+Developer;🎨+UI%2FUX+Designer+%7C+Tech+Student;⚡+PHP+MySQL+JS+React+Linux+Lover" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="dev working" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Dev Working" />
 </p>
 
 ---
@@ -59,8 +59,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThanchanatX&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanchanatX&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThanchanatX&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=default" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanchanatX&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 ---
@@ -73,9 +73,17 @@
 
 ---
 
+## 🔢 Profile Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ThanchanatX&style=flat-square&color=00BFFF&label=Profile+Views" />
+</p>
+
+---
+
 ## 🧩 Fun Fact
 
-> 🧠 **"นักพัฒนาไม่ใช่คนที่รู้ทุกอย่าง — แต่รู้ว่า GPT ยังอยู่!"**   
+> 🧠 **"นักพัฒนาไม่ใช่คนที่รู้ทุกอย่าง — แต่รู้ว่า GPT ยังอยู่!"**  
 > 🎮 ThanchanatX
 
 ---
