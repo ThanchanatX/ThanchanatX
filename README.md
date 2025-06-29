@@ -19,7 +19,7 @@
 - 🌍  **Based in:** Sa Kaeo, Thailand  
 - 🎓  **Student:** Computer Science  
 - 💻  **Skills:** PHP, MySQL, HTML, CSS, JS, React  
-- 🎨  **Focus:** UI/UX Design & System Dev  
+- 🎨  **Focus:** UI/UX Design & WebDev  
 - 🚀  **Portfolio:** [thanchanat.online](http://thanchanat.online)  
 - 📫  **Email:** [thanchanat.online](mailto:thanchanat.online)  
 - 🧠  **Currently Learning:** Next.js, Python, SQL Optimization
