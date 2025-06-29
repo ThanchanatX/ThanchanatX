@@ -73,10 +73,12 @@
 
 ---
 
-## 🔢 Profile Visitor Count
+## 🔢 จำนวนผู้เข้าชมโปรไฟล์
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThanchanatX&style=flat-square&color=00BFFF&label=Profile+Views" />
+  <a href="https://www.freecounterstat.com" title="free counter">
+    <img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=zsx8hs7h6hbda67buhqj2bqrlpgn4l48" border="0" title="free counter" alt="free counter" />
+  </a>
 </p>
 
 ---
