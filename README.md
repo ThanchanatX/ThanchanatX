@@ -4,9 +4,6 @@
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="60"/>
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kanit&weight=700&size=24&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=💻+Fullstack+Web+Developer;🎨+UI%2FUX+Designer+%7C+Tech+Student;⚡+PHP+MySQL+JS+React+Linux+Lover" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Dev Working" />
