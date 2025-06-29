@@ -5,9 +5,6 @@
 </h1>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" alt="Dev Working" />
-</p>
 
 ---
 
@@ -70,15 +67,6 @@
 
 ---
 
-## 🔢 จำนวนผู้เข้าชมโปรไฟล์
-
-<p align="center">
-  <a href="https://www.freecounterstat.com" title="free counter">
-    <img src="https://counter1.optistats.ovh/private/freecounterstat.php?c=zsx8hs7h6hbda67buhqj2bqrlpgn4l48" border="0" title="free counter" alt="free counter" />
-  </a>
-</p>
-
----
 
 ## 🧩 Fun Fact
 
