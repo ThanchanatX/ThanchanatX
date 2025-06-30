@@ -68,13 +68,6 @@
 ---
 
 
-## 🧩 Fun Fact
-
-> 🧠 **"นักพัฒนาไม่ใช่คนที่รู้ทุกอย่าง — แต่รู้ว่า GPT ยังอยู่!"**  
-> 🎮 ThanchanatX
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0ff0fc&height=120&section=footer"/>
 </p>
