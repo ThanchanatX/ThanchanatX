@@ -14,8 +14,8 @@
 - 🎓  **Student:** Computer Science  
 - 💻  **Skills:** PHP, MySQL, HTML, CSS, JS, React  
 - 🎨  **Focus:** UI/UX Design & WebDev  
-- 🚀  **Portfolio:** [thanchanat.online](http://thanchanat.online)  
-- 📫  **Email:** [thanchanat.online](mailto:thanchanat.online)  
+- 🚀  **Portfolio:** [thanchanatx.online](http://thanchanatx.online)  
+- 📫  **Email:** [thanchanatRMUTK](mailto:685021000284@mail.rmutk.ac.th)  
 - 🧠  **Currently Learning:** Next.js, Python, SQL Optimization
 
 ---
